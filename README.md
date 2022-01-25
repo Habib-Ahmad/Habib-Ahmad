@@ -6,5 +6,4 @@
 
 ## :computer: Tech Stack
 * Language: JavaScript, Typescript
-* Front End: React, Next.js
-* Back End: Express.js, Node.js, MongoDB
+* Technologies: React, Next.js, Express.js, Node.js, MongoDB, Material-UI
